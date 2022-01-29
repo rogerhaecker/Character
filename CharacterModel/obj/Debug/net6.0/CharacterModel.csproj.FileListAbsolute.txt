@@ -1,0 +1,12 @@
+C:\project\Character\CharacterMVC\CharacterModel\obj\Debug\net6.0\CharacterModel.csproj.AssemblyReference.cache
+C:\project\Character\CharacterMVC\CharacterModel\obj\Debug\net6.0\CharacterModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\project\Character\CharacterMVC\CharacterModel\obj\Debug\net6.0\CharacterModel.AssemblyInfoInputs.cache
+C:\project\Character\CharacterMVC\CharacterModel\obj\Debug\net6.0\CharacterModel.AssemblyInfo.cs
+C:\project\Character\CharacterMVC\CharacterModel\obj\Debug\net6.0\CharacterModel.csproj.CoreCompileInputs.cache
+C:\project\Character\CharacterMVC\CharacterModel\bin\Debug\net6.0\CharacterModel.deps.json
+C:\project\Character\CharacterMVC\CharacterModel\bin\Debug\net6.0\CharacterModel.dll
+C:\project\Character\CharacterMVC\CharacterModel\bin\Debug\net6.0\ref\CharacterModel.dll
+C:\project\Character\CharacterMVC\CharacterModel\bin\Debug\net6.0\CharacterModel.pdb
+C:\project\Character\CharacterMVC\CharacterModel\obj\Debug\net6.0\CharacterModel.dll
+C:\project\Character\CharacterMVC\CharacterModel\obj\Debug\net6.0\ref\CharacterModel.dll
+C:\project\Character\CharacterMVC\CharacterModel\obj\Debug\net6.0\CharacterModel.pdb

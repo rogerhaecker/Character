@@ -5,7 +5,9 @@ VisualStudioVersion = 17.0.32014.148
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CharacterMVC", "CharacterMVC\CharacterMVC.csproj", "{12754A26-8D98-4A87-A1E7-F80B2422BB97}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CharacterModel", "CharacterModel\CharacterModel.csproj", "{1BDFD40D-0D48-4574-9A2A-710550E1F683}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CharacterModel", "CharacterModel\CharacterModel.csproj", "{1BDFD40D-0D48-4574-9A2A-710550E1F683}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CharacterManagerData", "CharacterManagerData\CharacterManagerData.csproj", "{B43A1D4B-C2D5-4715-BB05-8B1A70F14EF9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{1BDFD40D-0D48-4574-9A2A-710550E1F683}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1BDFD40D-0D48-4574-9A2A-710550E1F683}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1BDFD40D-0D48-4574-9A2A-710550E1F683}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B43A1D4B-C2D5-4715-BB05-8B1A70F14EF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B43A1D4B-C2D5-4715-BB05-8B1A70F14EF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B43A1D4B-C2D5-4715-BB05-8B1A70F14EF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B43A1D4B-C2D5-4715-BB05-8B1A70F14EF9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

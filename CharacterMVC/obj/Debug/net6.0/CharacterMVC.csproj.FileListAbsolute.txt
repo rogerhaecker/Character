@@ -67,3 +67,7 @@ C:\project\Character\CharacterMVC\CharacterMVC\obj\Debug\net6.0\CharacterMVC.dll
 C:\project\Character\CharacterMVC\CharacterMVC\obj\Debug\net6.0\ref\CharacterMVC.dll
 C:\project\Character\CharacterMVC\CharacterMVC\obj\Debug\net6.0\CharacterMVC.pdb
 C:\project\Character\CharacterMVC\CharacterMVC\obj\Debug\net6.0\CharacterMVC.genruntimeconfig.cache
+C:\project\Character\CharacterMVC\CharacterMVC\bin\Debug\net6.0\CharacterManagerData.dll
+C:\project\Character\CharacterMVC\CharacterMVC\bin\Debug\net6.0\CharacterModel.dll
+C:\project\Character\CharacterMVC\CharacterMVC\bin\Debug\net6.0\CharacterManagerData.pdb
+C:\project\Character\CharacterMVC\CharacterMVC\bin\Debug\net6.0\CharacterModel.pdb

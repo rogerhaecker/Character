@@ -1,0 +1,17 @@
+C:\project\Character\CharacterMVC\CharacterManagerData\bin\Debug\net6.0\CharacterManagerData.deps.json
+C:\project\Character\CharacterMVC\CharacterManagerData\bin\Debug\net6.0\CharacterManagerData.dll
+C:\project\Character\CharacterMVC\CharacterManagerData\bin\Debug\net6.0\ref\CharacterManagerData.dll
+C:\project\Character\CharacterMVC\CharacterManagerData\bin\Debug\net6.0\CharacterManagerData.pdb
+C:\project\Character\CharacterMVC\CharacterManagerData\obj\Debug\net6.0\CharacterManagerData.csproj.AssemblyReference.cache
+C:\project\Character\CharacterMVC\CharacterManagerData\obj\Debug\net6.0\CharacterManagerData.GeneratedMSBuildEditorConfig.editorconfig
+C:\project\Character\CharacterMVC\CharacterManagerData\obj\Debug\net6.0\CharacterManagerData.AssemblyInfoInputs.cache
+C:\project\Character\CharacterMVC\CharacterManagerData\obj\Debug\net6.0\CharacterManagerData.AssemblyInfo.cs
+C:\project\Character\CharacterMVC\CharacterManagerData\obj\Debug\net6.0\CharacterManagerData.csproj.CoreCompileInputs.cache
+C:\project\Character\CharacterMVC\CharacterManagerData\obj\Debug\net6.0\CharacterManagerData.dll
+C:\project\Character\CharacterMVC\CharacterManagerData\obj\Debug\net6.0\ref\CharacterManagerData.dll
+C:\project\Character\CharacterMVC\CharacterManagerData\obj\Debug\net6.0\CharacterManagerData.pdb
+C:\project\Character\CharacterMVC\CharacterManagerData\bin\Debug\net6.0\CharacterManagerData.runtimeconfig.json
+C:\project\Character\CharacterMVC\CharacterManagerData\obj\Debug\net6.0\CharacterManagerData.genruntimeconfig.cache
+C:\project\Character\CharacterMVC\CharacterManagerData\bin\Debug\net6.0\CharacterModel.dll
+C:\project\Character\CharacterMVC\CharacterManagerData\bin\Debug\net6.0\CharacterModel.pdb
+C:\project\Character\CharacterMVC\CharacterManagerData\obj\Debug\net6.0\CharacterManagerData.csproj.CopyComplete

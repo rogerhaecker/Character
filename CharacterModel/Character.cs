@@ -21,5 +21,6 @@ namespace CharacterModel
         public int PlayerID { get; set; }
         public virtual Player Player { get; set; }
 
+        public string UserId { get; set; }
     }
 }
